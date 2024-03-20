@@ -133,6 +133,7 @@ x_single_prediction = np.argmax(
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
+![Screenshot 2024-03-20 111128](https://github.com/karuniya2005/mnist-classification/assets/161425769/396de945-55be-41f3-a73c-80e6da2796c8)
 
 
 ### Classification Report & Confusion Matrix
