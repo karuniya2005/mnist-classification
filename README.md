@@ -25,8 +25,8 @@ Compile and fit the model and then predict
 
 ## PROGRAM
 
-### Name: VINOTH MP
-### Register Number: 212223240182
+### Name: KARUNIYA M
+### Register Number: 212223240068
 ## Library Importing:
 
 
